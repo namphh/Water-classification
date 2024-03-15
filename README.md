@@ -7,4 +7,5 @@ Water safety data sets are used to assess water quality. If the data set shows t
 # Description about model
 
 The problem uses the SVM model to classify which water is safe and not based on the ingredients in the water
+# Results
 ![image](https://github.com/namphh/Water-classification/assets/124813687/f6630d93-214a-49a8-9b0f-4ac10502448d)
